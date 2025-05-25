@@ -1,5 +1,6 @@
 # An-lisis-de-controladores-de-odometr-a
 Actividad: Análisis de controladores de odometría para robots de tracción diferencial - A01799122
+Marco Antonio Gonzalez Fernandez
 
 Este repositorio contiene el material correspondiente al proyecto "Análisis de controladores de odometría para robots de tracción diferencial", incluyendo:
 
