@@ -6,4 +6,9 @@ Este repositorio contiene el material correspondiente al proyecto "Análisis de 
 
 📄 Reporte en formato PDF con la documentación completa del análisis, implementación, pruebas y comparaciones de tres controladores: Turn-and-Go, Turn-while-Go y Pure Pursuit. Se detallan trayectorias, métricas de desempeño (ITAE y tiempo de ejecución), resultados, figuras y conclusiones.
 
-🔧 Archivo .slx de Simulink, que contiene el sistema completo modelado del puzzlebot. Dentro de los bloques correspondientes se encuentran integrados los segmentos de código implementados para cada controlador y trayectoria
+🔧 Archivo .slx de Simulink, que contiene el sistema completo modelado del puzzlebot. Dentro de los bloques correspondientes se encuentran integrados los segmentos de código implementados para cada controlador y trayectoria.
+
+❗DENTRO DEL BLOQUE DE CONTROL SE ENCUENTRAN LOS 3 CONTROLADORES
+❗DENTRO DEL BLOQUE DE PATH GENERATOR SE ENCUENTRAN LAS DISTINTAS TRAYECTORIAS
+
+🌟TODO ESTA ORGANIZADO Y COMENTADO
